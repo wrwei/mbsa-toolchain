@@ -13,7 +13,7 @@
           </style>
         </nodeMappings>
         <nodeMappings name="Fork" semanticCandidatesExpression="feature:components" domainClass="component::Fork">
-          <style xsi:type="style:DotDescription" labelSize="12" labelExpression="Fork" sizeComputationExpression="5" labelPosition="node" resizeKind="NSEW" strokeSizeComputationExpression="5">
+          <style xsi:type="style:DotDescription" labelSize="12" labelExpression="F" sizeComputationExpression="5" labelPosition="node" resizeKind="NSEW" strokeSizeComputationExpression="5">
             <borderColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
             <labelColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='black']"/>
             <backgroundColor xsi:type="description:SystemColor" href="environment:/viewpoint#//@systemColors/@entries[name='green']"/>
@@ -274,7 +274,7 @@
               </firstModelOperations>
             </initialOperation>
           </ownedTools>
-          <ownedTools xsi:type="tool_1:OperationAction" name="Simulation: 1M hrs">
+          <ownedTools xsi:type="tool_1:OperationAction" name="Perform FMEA">
             <view name="views"/>
             <initialOperation>
               <firstModelOperations xsi:type="tool_1:ChangeContext">

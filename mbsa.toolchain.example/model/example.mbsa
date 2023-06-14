@@ -455,14 +455,13 @@
     </components>
     <components xsi:type="component_:ComponentRelationship" label="" source="//@componentPackage.1/@components.17" target="//@componentPackage.1/@components.19"/>
     <components xsi:type="component_:ComponentRelationship" label="" source="//@componentPackage.1/@components.19" target="//@componentPackage.1/@components.20"/>
-    <components xsi:type="component_:ComponentRelationship" label="" source="//@componentPackage.1/@components.20" target="//@componentPackage.1/@components.7"/>
     <components xsi:type="component_:ComponentRelationship" label="" source="//@componentPackage.1/@components.8"/>
     <components xsi:type="component_:ComponentRelationship" label="" target="//@componentPackage.1/@components.17"/>
     <components xsi:type="component_:ComponentRelationship" label="Component Relationship" target="//@componentPackage.1/@components.9"/>
     <components xsi:type="component_:Fork"/>
-    <components xsi:type="component_:ComponentRelationship" label="" source="//@componentPackage.1/@components.8" target="//@componentPackage.1/@components.27"/>
-    <components xsi:type="component_:ComponentRelationship" label="" source="//@componentPackage.1/@components.27" target="//@componentPackage.1/@components.17"/>
-    <components xsi:type="component_:ComponentRelationship" label="" source="//@componentPackage.1/@components.27" target="//@componentPackage.1/@components.9"/>
+    <components xsi:type="component_:ComponentRelationship" label="" source="//@componentPackage.1/@components.8" target="//@componentPackage.1/@components.26"/>
+    <components xsi:type="component_:ComponentRelationship" label="" source="//@componentPackage.1/@components.26" target="//@componentPackage.1/@components.17"/>
+    <components xsi:type="component_:ComponentRelationship" label="" source="//@componentPackage.1/@components.26" target="//@componentPackage.1/@components.9"/>
   </componentPackage>
   <requirementPackage>
     <name content="通讯系统安全要求包"/>
